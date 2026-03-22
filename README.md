@@ -1,4 +1,4 @@
-# Aria AI — Finance Voice Agent
+# Aria AI — Voice Agent
 
 A real-time voice AI support agent for fintech customer support. Users speak to the agent via WebSocket; their speech is transcribed (Deepgram), understood and answered by Claude (Anthropic), and the response is spoken back (ElevenLabs). A RAG pipeline backed by Pinecone answers policy/FAQ questions with grounded context.
 
